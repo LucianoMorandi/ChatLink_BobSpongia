@@ -3,7 +3,7 @@ import type { Product } from "../types/products";
 import { getProducts } from "../services/productService";
 import ProductCard from "../components/ProductCard";
 import logo from "../assets/logo_bob_spongia.jpg";
-import portada from "../assets/portada_bobspongio.png";
+import portada from "../assets/portada.jpg";
 import styles from "./Home.module.css";
 import Footer from "../components/Footer";
 
