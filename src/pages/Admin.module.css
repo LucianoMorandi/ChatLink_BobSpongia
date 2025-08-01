@@ -154,7 +154,7 @@
 
 .deleteBtn {
   background-color: var(--rojo);
-  color: white;
+  color: red;
   padding: 0.4rem 0.8rem;
   border-radius: 6px;
   border: none;
