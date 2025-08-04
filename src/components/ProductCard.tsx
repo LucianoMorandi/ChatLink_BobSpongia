@@ -19,7 +19,7 @@ const ProductCard = ({ product }: Props) => {
       `¿Podrías darme más información?`
     );
 
-    window.open(`https://wa.me/5492613065967?text=${message}`, "_blank");
+    window.open(`https://wa.me/5492615713828?text=${message}`, "_blank");
   };
 
   return (
